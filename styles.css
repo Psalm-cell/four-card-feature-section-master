@@ -33,9 +33,9 @@ h3 {
     color: hsl(234, 12%, 34%);
 }
 div.container {
-    display: grid;
-    /* grid-template-rows:; */
-    row-gap: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
     padding: 3em;
 }
 div.card {
@@ -59,4 +59,38 @@ div.karma {
 }
 div.calc {
     border-top: 0.4em solid hsl(212, 86%, 64%);
+}
+
+/* Larger screen responsiveness */
+
+@media screen and (min-width: 480px) {
+    header + p {
+        width: 30%;
+        margin: 0 auto;
+    }
+    div.container {
+        display: grid;
+        /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
+        /* grid-template-rows: 1fr 1fr 1fr; */
+        gap: 2em;
+        /* grid-auto-flow: dense; */
+    }
+    .card  p {
+        margin-bottom: 4em;
+    }
+    .supervisor {
+     grid-row: 2;  
+    }
+    .team {
+        grid-row: 1;
+        grid-column: 2;
+    }
+    .karma {
+        grid-row: 2;
+        grid-column: 3;
+    }
+    .calc {
+        grid-row: 3;
+        grid-column: 2;
+    }
 }
