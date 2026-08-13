@@ -17,7 +17,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -37,8 +37,8 @@ Above are screenshots of my challenge solution both the mobile and desktop view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Psalm-cell/four-card-feature-section-master)
+- Live Site URL: [Live site URL](https://psalm-cell.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -85,11 +85,9 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Psalm-cell](https://www.frontendmentor.io/profile/Psalm-cell)
+- Twitter - [@Adesany60857357](https://x.com/Adesany60857357)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
@@ -97,4 +95,3 @@ All glory to God for the success and completion of this challenge. I am grateful
 
 See you next time!
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
